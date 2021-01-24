@@ -1,0 +1,25 @@
+{
+  "name": "node-tdd",
+  "version": "1.0.0",
+  "description": "Node.js 테스트 주도 개발 공부",
+  "main": "stats.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junhaddi/node-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junhaddi/node-tdd/issues"
+  },
+  "homepage": "https://github.com/junhaddi/node-tdd#readme"
+}
